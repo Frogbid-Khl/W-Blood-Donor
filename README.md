@@ -1,1 +1,18 @@
 # W-Blood-Donor
+**Database Name: secyear**
+
+**Developed by Naseeb Bajracharya**
+
+**Recommended PHP Version 5.6.3**
+
+
+**Admin Login Details**
+
+Username: admin
+Password: admin
+
+
+**Donor Login Details**
+
+Username: harry
+Password: pass
